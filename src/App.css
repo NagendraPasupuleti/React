@@ -1,0 +1,13 @@
+.navbar{
+  background: linear-gradient(45deg,red,yellow,green);
+}
+#card-header{
+  background: linear-gradient(45deg,yellow,grey);
+
+}
+input[type='text'] ,input[type='password'],input[type='email'],.form-control{
+  outline: none;
+  border:none;
+  border-bottom: 1px solid deepskyblue;
+height:40px;
+}
